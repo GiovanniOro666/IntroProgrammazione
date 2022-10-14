@@ -1,1 +1,0 @@
-print("scemo chi legge")
